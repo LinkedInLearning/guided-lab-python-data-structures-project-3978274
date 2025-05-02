@@ -11,6 +11,9 @@ The repository for this course is organised into folders for each chapter. The s
 
 You may wish to use GitHub Codespaces for this course, if you wish to work locally without the need to download the repository for any local machine setup. To do this, select the green CODE button, then the Codespaces tab followed by "create codespace on main."
 
+Tip: To have the "run" button in VS code run the current script from the current directory, click the cogwheel for settings and start typing python.terminal. You will see a checkbox for "Execute in File Dir." Select this, then close the currently opened terminal. Next time you click "run" the new setting will apply.
+
+
 
 ## Working with Course Files Locally
 
