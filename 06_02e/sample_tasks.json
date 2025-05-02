@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Watch course introduction video",
+        "status": "complete",
+        "deadline": null,
+        "priority": 5
+    },
+    {
+        "title": "Fork the course GitHub repository to my own GitHub account",
+        "status": "complete",
+        "deadline": null,
+        "priority": 5
+    },
+    {
+        "title": "Spin up a GitHub CodeSpace for the forked repository",
+        "status": "pending",
+        "deadline": "2025-10-03",
+        "priority": 1
+    },
+    {
+        "title": "Start working through Chapter 2",
+        "status": "pending",
+        "deadline": "2025-10-04",
+        "priority": 2
+    }
+]
